@@ -1,0 +1,2 @@
+错误时间: 2025-11-08 21:13:38
+错误信息: cannot import name 'ChromeType' from 'webdriver_manager.core.utils' (C:\Users\admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\webdriver_manager\core\utils.py)
